@@ -1,0 +1,5 @@
+
+Union-Find 
+싸이클 판단 혹은 배타적 집합인지 확인하기에 활용
+(A에서 출발해서 B로 이동할 수 있는가?)
+https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html
